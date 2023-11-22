@@ -1,5 +1,5 @@
-# telcel_pdo
-imprimiendo, actualizando y borrando y uniendo tablas de los datos de la bd_telcel de las tablas (tbl_productos, tbl_productosvendidos, tbl_ventas)
+# Carpinteria_pdo
+imprimiendo, actualizando y borrando y uniendo tablas de los datos de la bd_carpinteria de las tablas (tbl_productos, tbl_productosvendidos, tbl_pedidos)
 
 ![image](https://github.com/isaacChavezzz/telcel_pdo/assets/143744084/52a19f76-a232-4223-abdd-93bc9d044691)
 ![image](https://github.com/isaacChavezzz/telcel_pdo/assets/143744084/333ad7f5-b92b-4572-aaa4-0721085ac723)
